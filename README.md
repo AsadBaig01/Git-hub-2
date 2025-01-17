@@ -1,1 +1,2 @@
 # Git-hub-2
+A paragraph about environmental pollution can describe how human activity releases harmful substances into the environment, damaging ecosystems and human health. It can also discuss the consequences of pollution, such as climate change, biodiversity loss, and disease.
